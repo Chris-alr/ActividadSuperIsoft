@@ -1,0 +1,7 @@
+com\chris\Isoft\IsoftApplication.class
+com\chris\Isoft\Model\Producto.class
+com\chris\Isoft\Model\Reponedor.class
+com\chris\Isoft\Model\Usuario.class
+com\chris\Isoft\Controller\ApiController.class
+com\chris\Isoft\Model\Cajero.class
+com\chris\Isoft\Model\Merma.class
